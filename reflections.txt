@@ -9,3 +9,7 @@ What was the most rewarding challenge you conquered?
 Where do you still have room to grow?
 
 	Getting familiar with Ruby
+
+How does your gem take advantage of Ruby’s metaprogramming capabilities?
+
+ method self.create_colors uses the existing hashes and responds to them
