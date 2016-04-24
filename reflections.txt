@@ -1,0 +1,11 @@
+How long did you spend working on this project?
+
+	Couple of hours
+
+What was the most rewarding challenge you conquered?
+
+	Making my own gem!
+
+Where do you still have room to grow?
+
+	Getting familiar with Ruby
